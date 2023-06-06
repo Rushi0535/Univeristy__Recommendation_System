@@ -34,10 +34,10 @@ To use the recommendation system, follow these steps:
 1. Clone the repository:
 
 2. Navigate to the project directory:
-      cd university-recommendation-system
+        cd university-recommendation-system
 
 3. Run the recommendation system script:
-      python recommendation_system.py
+        python recommendation_system.py
   
 4. Enter your inputs and requirements when prompted by the system.
 
