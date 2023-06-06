@@ -34,12 +34,10 @@ To use the recommendation system, follow these steps:
 1. Clone the repository:
 
 2. Navigate to the project directory:
-
-  cd university-recommendation-system
+      cd university-recommendation-system
 
 3. Run the recommendation system script:
-
-  python recommendation_system.py
+      python recommendation_system.py
   
 4. Enter your inputs and requirements when prompted by the system.
 
@@ -53,13 +51,13 @@ If you want to contribute to this project, you can follow these steps:
 1. Fork the repository.
 
 2. Create a new branch:
-  git checkout -b feature/your-feature
+    git checkout -b feature/your-feature
   
 3. Make your changes and commit them:
-  git commit -m "Add your commit message"
+    git commit -m "Add your commit message"
   
 4. Push to the branch:
-  git push origin feature/your-feature
+    git push origin feature/your-feature
   
 5. Create a pull request on GitHub.
   
